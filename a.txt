@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Added by Local repository
+=======
+this added by remote repository
+>>>>>>> a8b12b2893cb44dfa3fff3a5369c029609731d8c
